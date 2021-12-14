@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<structure>
+    <message>Игра завершена, время угадано</message>
+    <number>3</number>
+    <Flag>true</Flag>
+</structure>
